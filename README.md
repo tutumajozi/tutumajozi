@@ -16,10 +16,10 @@
 - 📌 Projects that I have worked on can be found on here.
 
 ### Languages:
-📈 Java - C# - C++ - HTML/CSS - SQL - Assembly 
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cs,capp,)](https://skillicons.dev)
 
 ### Technologies:
-🛠️ Visual Studio - GitHub - Eclipse - Microsoft Office - Midbase 
+[![My Skills](https://skillicons.dev/icons?i=css,azure,cpp,discord,eclipse,firebase,github,powershell,stackoverflow,visualstudio,vscode,windows)](https://skillicons.dev)
 
 ### Still new, still learning 🦄
   
