@@ -1,16 +1,25 @@
-## Hi there 👋
+![/main/profile_git.png](https://github.com/tutumajozi/tutumajozi/blob/main/profile_git.png)
 
-<!--
-**tutumajozi/tutumajozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, welcome to my profile! 👋
 
-Here are some ideas to get you started:
+- 🎓 A recent graduate in a BSc degree in IT in Computer Science and Software Engineering (2024)
+- 🏫 University Of Johanennesburg, South Africa
+- 📍 Johanessburg, Gauteng - South Africa 
+- 💼 Project Controller for a fibre network and constructotion company (3 years).
+- 🔭 Currently looking to grow my career in software engireering
+- 📧 **[Email](tutumajozi@gmail.com)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/nokuthula-majozi-87434a178/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My Latest GitHub Activity: 
+- 💻 Final year Assembly Language projects
+- 📌 Projects that I have worked on can be found on here.
+
+### Languages:
+📈 Java - C# - C++ - HTML/CSS - SQL - Assembly 
+
+### Technologies:
+🛠️ Visual Studio - GitHub - Eclipse - Microsoft Office - Midbase 
+
+### Still new, still learning 🦄
+  
